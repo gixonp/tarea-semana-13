@@ -10,10 +10,10 @@ El programa permite calcular el consumo aproximado de gasolina de una motociclet
 
 ## Datos utilizados
 
-Kilómetros recorridos: 335 km
-Dinero utilizado: $8,30
-Precio de gasolina Extra: $3,24 por galón
-Conversión: 1 galón = 3,785 litros
+* Kilómetros recorridos: 335 km
+* Dinero utilizado: $8,30
+* Precio de gasolina Extra: $3,24 por galón
+* Conversión: 1 galón = 3,785 litros
 
 ## Funcionamiento
 
@@ -33,4 +33,15 @@ Con 335 kilómetros recorridos y $8,30 de gasolina, el programa obtiene un consu
 ## Archivo principal
 
 `consumo_moto.py`
+
+## Lenguaje utilizado
+
+Python
+
+## Herramientas utilizadas
+
+* Python
+* Visual Studio Code
+* GitHub
+
 **El precio del combustible extra al dia de hoy 11 de septiembre es de $3.24 por galon**
